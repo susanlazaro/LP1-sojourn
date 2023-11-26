@@ -33,6 +33,7 @@ The aim of this data analytics is to provide comprehensive understanding how the
 
 
 CONCLUSION
+
    After the analysis, it was observed that in the Indian Ecosystem ,the top industry in terms of funding is FinTech, with $153.86 billion, followed by Retail with $70.54 billion, and EdTech with $6.38 billion. Other industries in the list include Tech Company, E-commerce, Automotive, Multinational Conglomerate Company, Financial Services, Food Delivery, and Hospitality, all of which received varying amounts of funding.
 
    In terms of locations, Mumbai is the top location with the highest funding amount of $230.8 billion, followed by Bangalore with $24.6 billion. Other locations include Gurugram, New Delhi, and California, all of which received varying amounts of funding.
