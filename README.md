@@ -14,39 +14,10 @@ The aim of this data analytics is to provide comprehensive understanding how the
 
  
 
-**Hypothesis 1 **
-
-Ho: The type(s) of investors influence success of start-ups in India ecosystem 
-
-H1: The type(s) of investors doesn’t influence success of start-ups in India ecosystem. 
-
+**Hypothesis : Sector and Funding Amount**
  
-
-**Hypothesis 2** 
-Ho: The location of HeadQuarters influences the type of start-ups in India ecosystem. 
-
-H1: The location of HeadQuarters doesn’t influence the start-ups in India ecosystem. 
-
- 
-
-
-**Hypothesis 3 **
-
-Ho: There is equal distribution of start-up sectors in the India ecosystem 
-
-H1:  There is an unequal distribution of start-up sectors in the India ecosystem. 
-
- 
-**Hypothesis 4 **
-Ho: Start-up success within the same sector receive equal amount of funding. 
-
-H1: Start-up success within the same sector do not receive equal amount of funding. 
-
- 
-**Hypothesis 5** 
-Ho: Founders with multiple startups have higher investment portfolio. 
-
-H1: Founders with multiple startups do not have higher investment portfolio as compared to founders with single startup. 
+* Null Hypothesis (H0): The sector in which a startup operates has no significant impact on the amount of funding it receives.  
+*  Alternative Hypothesis (H1): The sector in which a startup operates has significant impact on the amount of funding it receives 
 
  
 
